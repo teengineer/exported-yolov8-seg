@@ -1,5 +1,5 @@
-- This repo contains the example using custom model that exported as tfjs.
-- Refererences model is yolov8x.pt
+- This repo contains the example using yolov8 model that exported as tfjs.
+- Refererences model is yolov8n.pt
 
 
 
